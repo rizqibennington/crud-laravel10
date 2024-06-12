@@ -1,29 +1,30 @@
-# Andis Dev
+# Rizqi Huntz
+
 ## _Turorial Login Register CRUD Laravel 10_
 
 ## Features
 
-- Login User
-- Logout User
-- Register User
-- Validate email
-- CRUD Laravel 10
-- Validation
-- Sweat Alert
-- Datatable
-- Javascript Validation
-- FontAwesome 6
+-   Login User
+-   Logout User
+-   Register User
+-   Validate email
+-   CRUD Laravel 10
+-   Validation
+-   Sweat Alert
+-   Datatable
+-   Javascript Validation
+-   FontAwesome 6
 
 ## Required
 
-- Laravel 10
-- PHP newer version
-- Composer
-- Datatable
-- Sweetalert
-- Javascript
-- FontAwesome 6
-- Server Xampp/Laragon
+-   Laravel 10
+-   PHP newer version
+-   Composer
+-   Datatable
+-   Sweetalert
+-   Javascript
+-   FontAwesome 6
+-   Server Xampp/Laragon
 
 ## Installation
 
@@ -40,9 +41,11 @@ open link at your browser
 http://127.0.0.1:8000
 
 ## Demo Link
+
 https://login-register-crud-laravel.andisdev.tech/
 
 ## Screenshoot
+
 ![logo](https://github.com/AndiSyarif/login-register-crud-laravel-10/blob/main/public/assets/img/ss7.png)
 ![logo](https://github.com/AndiSyarif/login-register-crud-laravel-10/blob/main/public/assets/img/ss8.png)
 ![logo](https://github.com/AndiSyarif/login-register-crud-laravel-10/blob/main/public/assets/img/ss9.png)
@@ -58,7 +61,6 @@ https://login-register-crud-laravel.andisdev.tech/
 
 ## License
 
-Andis Dev
+Rizqi Huntz
 
 **Free for learn !**
-
